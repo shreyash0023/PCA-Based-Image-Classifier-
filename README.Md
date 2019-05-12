@@ -8,7 +8,7 @@ pandas ==0.23.4
 Pillow ==6.0.0
 matplotlib ==3.0.3
 
-# DATA SET STRUCTURE
+# Dataset Structure
 
 
 Fruit Data Set:
@@ -20,7 +20,7 @@ Testing data:
 	resized_animals_test
 	resized_fruit_test
 
-# CODE STRUCTURE
+# Code Structure
 
 
 FOR PCA Based Image Classifier

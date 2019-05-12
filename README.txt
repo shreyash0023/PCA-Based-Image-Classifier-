@@ -5,9 +5,9 @@ Class: CSE 6363
 Programming Language Used: Python 3.7 :: Anaconda, Inc.
 --------------------------
 
----------------
-Requirements:
----------------
+
+# Requirements:
+
 Python ==3.7.1
 numpy ==1.11.0
 pandas ==0.23.4
@@ -15,9 +15,9 @@ Pillow ==6.0.0
 matplotlib ==3.0.3
 
 
-------------------
-DATA SET STRUCTURE
-------------------
+
+# DATA SET STRUCTURE
+
 
 Fruit Data Set:
 	In folder resized_fruits. This is subfolders for each fruit category.
@@ -29,9 +29,9 @@ Testing data:
 	resized_fruit_test
 
 
----------------
-CODE STRUCTURE
----------------
+
+# CODE STRUCTURE
+
 
 FOR PCA Based Image Classifier
 
@@ -51,3 +51,4 @@ How to run:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+For a detailed implementaion overview, check PCA Based Animal Recognition.docx

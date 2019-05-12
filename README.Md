@@ -3,7 +3,7 @@ ID: 1001397477
 Class: CSE 6363
 
 Programming Language Used: Python 3.7 :: Anaconda, Inc.
---------------------------
+
 
 
 # Requirements:
@@ -40,7 +40,7 @@ How to run:
 	python <file_name>.py
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 FOR Image Resizing for PCA
 
@@ -49,6 +49,5 @@ How to run:
 	python <file_name>.py
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 For a detailed implementaion overview, check PCA Based Animal Recognition.docx
